@@ -10,7 +10,12 @@ binding = "ASSETS"
 [[d1_databases]]
 binding = "NEWSNOW_DB"
 database_name = "newsnow-db"
-database_id = ""
+database_id = "8d63e11d-ad93-457d-af0c-f17b92be5139"
+
+[[kv_namespaces]]
+binding = "NEWSNOW_KV"
+id = "2df3c63da04d4df398e6be9e10d9ffe3"
+preview_id = "7051ec3dd30948cda726166ff410df54"
 
 [vars]
 NODE_ENV = "production"
